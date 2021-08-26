@@ -8,32 +8,32 @@ comments: false
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-#### ZALUOPA
-#### ZALUOPA
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
-## Preview
+### Кто я, почему я, что я делаю.
+В 2021 году закончил Энгельский промышленно-экономический коллдеж с дипломом с отличием по специальности "Компьютерные системы и комплексы".
 
+### Достижения за время учебы:
+#### 2018/2019
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    ![linux](assets/img/linux1.png)
+    ![linux](assets/img/linux2.png)
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+#### 2020/2021
+Двухкратный участник регионального этапа чемпионата WorldSkills Russia в компетенции веб-дизайн и разработка. 
+В 2021 году закончил чемпионат со статусом "Medallion of Excellence" который указывает на то, что я подтвердил свою профессиональную квалификацию по данной компетенции.
 
-## Getting Started
+![wsr](assets/img/wsr.png)
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Владелец почетной грамоты в номинации "Индивидуальный стиль и нестандартный подход"  регионального этапа Всероссийской олимпиады профессионального мастерства обущающихся по УГС 09.00.00 "Информатика и вычислительная техника".
+
+Активный участник научного сообщества колледжа. Выступал на конференциях, темы которых были связанны с IT и цифровизацией экономики.
+
+![conf](assets/img/conf.png)
+
+
+### Чем занимаюсь сейчас:
+Изучаю Computer Science и информационную безопасность с помощью Open Source Society University. OSSU - это полное образование в области компьютерных наук с использованием онлайн-материалов. Он разработан в соответствии с требованиями к степени бакалавра. Cами курсы являются одними из самых лучших в мире, часто они проводятся в Гарварде, Принстоне, Массачусетском технологическом институте и т.д.
+
+### Contact me
