@@ -1,2 +1,12 @@
 # Site navigation links
+- title: Home
+  url: https://morozovvladimirsth.github.io/
 
+- title: Blog
+  url:  https://morozovvladimirsth.github.io//blog/
+
+- title: Projects
+  url:  https://morozovvladimirsth.github.io//projects/
+
+- title: About
+  url:  https://morozovvladimirsth.github.io//about/
