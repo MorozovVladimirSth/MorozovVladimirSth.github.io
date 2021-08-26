@@ -1,21 +1,19 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 tags: [about, Jekyll, theme, moon]
 date: 2021-08-26
 comments: false
 ---
     
-
-
 ### Кто я, почему я, что я делаю.
 В 2021 году закончил Энгельский промышленно-экономический коллдеж с дипломом с отличием по специальности "Компьютерные системы и комплексы".
 
 ### Достижения за время учебы:
 #### 2018/2019
 {% capture images %}
-    ![linux](assets/img/linux1.png)
-    ![linux](assets/img/linux2.png)
+    ![linux](/assets/img/linux1.png)
+    ![linux](/assets/img/linux2.png)
 {% endcapture %}
 {% include gallery images=images caption="" cols=2 %}
 
