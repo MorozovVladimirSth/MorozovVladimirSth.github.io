@@ -1,19 +1,16 @@
 # Site navigation links
 
 - title: Projects
-  url: /projects/
+  url: https://morozovvladimirsth.github.io/projects/
   
   - title: Home
-  url: /
+  url: https://morozovvladimirsth.github.io/
 
 - title: Blog
-  url: /blog/
-
-- title: Projects
-  url: /projects/
+  url: https://morozovvladimirsth.github.io/blog/
 
 - title: About
-  url: /about/
+  url: https://morozovvladimirsth.github.io/about/
 
 - title: Moon
   url: https://morozovvladimirsth.github.io
