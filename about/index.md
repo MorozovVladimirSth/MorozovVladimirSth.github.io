@@ -6,7 +6,6 @@ date: 2021-08-26
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 
 ### Кто я, почему я, что я делаю.
@@ -18,7 +17,7 @@ comments: false
     ![linux](assets/img/linux1.png)
     ![linux](assets/img/linux2.png)
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="" cols=2 %}
 
 #### 2020/2021
 Двухкратный участник регионального этапа чемпионата WorldSkills Russia в компетенции веб-дизайн и разработка. 
@@ -36,4 +35,4 @@ comments: false
 ### Чем занимаюсь сейчас:
 Изучаю Computer Science и информационную безопасность с помощью Open Source Society University. OSSU - это полное образование в области компьютерных наук с использованием онлайн-материалов. Он разработан в соответствии с требованиями к степени бакалавра. Cами курсы являются одними из самых лучших в мире, часто они проводятся в Гарварде, Принстоне, Массачусетском технологическом институте и т.д.
 
-### Contact me
+### Связь со мной
