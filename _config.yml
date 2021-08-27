@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Морозов Владимир
+bio:                'Пустой вселенной блудный сын.'
+description:        "full time self-education student"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -44,7 +44,7 @@ github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          /starshipthief/
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
