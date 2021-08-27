@@ -11,11 +11,10 @@ comments: false
 
 ### Достижения за время учебы:
 #### 2018/2019
-{% capture images %}
-    ![linux1](/assets/img/linux1.png)
-    ![linux](/assets/img/linux2.png)
-{% endcapture %}
-{% include gallery images=images caption="Сертификаты участника" cols=2 %}
+<figure class="third">
+	<img src="/assets/img/linux1.png">
+	<img src="/assets/img/linux2.png">
+</figure>
 
 #### 2020/2021
 Двухкратный участник регионального этапа чемпионата WorldSkills Russia в компетенции веб-дизайн и разработка. 
