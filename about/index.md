@@ -12,7 +12,7 @@ comments: false
 ### Достижения за время учебы:
 #### 2018/2019
 
-<figure class="half">
+<figure class="three">
 	<img src="/assets/img/linux1.png">
 	<img src="/assets/img/linux2.png">
 </figure>
