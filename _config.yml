@@ -1,6 +1,6 @@
 # Site
 title:              Морозов Владимир
-bio:                'Пустой вселенной блудный сын.'
+bio:                #'Пустой вселенной блудный сын.'
 description:        "full time self-education student"
 reading_time:       true
 words_per_minute:   200
