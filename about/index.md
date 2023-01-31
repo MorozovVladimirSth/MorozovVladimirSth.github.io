@@ -32,7 +32,7 @@ comments: false
 ### 2022
 <figure class="half">
 	<img src="/assets/img/huawei1.jpg">
-	<img src="/assets/img/huawei1.jpg">
+	<img src="/assets/img/huawei2.jpg">
 </figure>
 
 ### Чем занимаюсь сейчас:
